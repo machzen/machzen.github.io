@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://machzen.github.io</id>
+    <id>http://localhost:4000</id>
     <title>machzen</title>
-    <updated>2022-03-29T13:41:24.474Z</updated>
+    <updated>2022-03-29T13:51:30.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://machzen.github.io"/>
-    <link rel="self" href="https://machzen.github.io/atom.xml"/>
-    <logo>https://machzen.github.io/images/avatar.png</logo>
-    <icon>https://machzen.github.io/favicon.ico</icon>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2022, machzen</rights>
     <entry>
         <title type="html"><![CDATA[2022 新赛季开始了]]></title>
-        <id>https://machzen.github.io/post/2022-xin-sai-ji-kai-shi-liao/</id>
-        <link href="https://machzen.github.io/post/2022-xin-sai-ji-kai-shi-liao/">
+        <id>http://localhost:4000/post/2022-xin-sai-ji-kai-shi-liao/</id>
+        <link href="http://localhost:4000/post/2022-xin-sai-ji-kai-shi-liao/">
         </link>
         <updated>2022-03-29T07:23:18.000Z</updated>
         <summary type="html"><![CDATA[<p>F1 2022新赛季preview</p>
@@ -21,12 +21,12 @@
 <!-- more -->
 <h2 id="第一站-巴林">第一站 巴林</h2>
 <p>奔驰AMG车队<br>
-<img src="https://machzen.github.io/post-images/1648538791117.jpg" alt="" loading="lazy"></p>
+<img src="http://localhost:4000/post-images/1648538791117.jpg" alt="" loading="lazy"></p>
 <p>迈凯伦 Google轮毂<br>
-<img src="https://machzen.github.io/post-images/1648538913845.jpg" alt="" loading="lazy"></p>
+<img src="http://localhost:4000/post-images/1648538913845.jpg" alt="" loading="lazy"></p>
 <h2 id="第二站-沙特">第二站 沙特</h2>
 <p>起步发车<br>
-<img src="https://machzen.github.io/post-images/1648538825433.jpg" alt="" loading="lazy"></p>
+<img src="http://localhost:4000/post-images/1648538825433.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
